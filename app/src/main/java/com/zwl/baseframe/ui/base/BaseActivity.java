@@ -66,6 +66,7 @@ public abstract class BaseActivity extends AppCompatActivity implements IBaseVie
     @Override
     public void showProgressDialog(final String message) {
         if (TextUtils.isEmpty(message)) {
+            
             return;
         }
 
