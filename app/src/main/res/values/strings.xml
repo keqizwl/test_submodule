@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">baseframe</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="login_email_promt">请填入邮箱</string>
+</resources>
