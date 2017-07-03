@@ -1,0 +1,3 @@
+[submodule "base_lib"]
+	path = base_lib
+	url = D:\\develop\\base_lib\\base_lib
