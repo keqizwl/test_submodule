@@ -3,11 +3,11 @@ package com.zwl.baseframe;
 import android.app.Activity;
 import android.app.Application;
 
-import com.zwl.baseframe.di.component.AppComponent;
-import com.zwl.baseframe.di.component.DaggerAppComponent;
-import com.zwl.baseframe.di.component.ActivityCompontent;
-import com.zwl.baseframe.di.module.ActivityModule;
-import com.zwl.baseframe.di.module.AppModule;
+import com.zwl.baseframe.domain.ui.implementz.di.component.ActivityCompontent;
+import com.zwl.baseframe.domain.ui.implementz.di.module.ActivityModule;
+import com.zwl.baseframe.implementz.di.component.AppComponent;
+import com.zwl.baseframe.implementz.di.component.DaggerAppComponent;
+import com.zwl.baseframe.implementz.di.module.AppModule;
 
 
 /**

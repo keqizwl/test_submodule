@@ -4,7 +4,7 @@
 
         <variable
             name="sampleModel2"
-            type="com.zwl.baseframe.model.SampleModel2" />
+            type="com.zwl.baseframe.domain.business.model.SampleModel2" />
     </data>
 
     <LinearLayout xmlns:tools="http://schemas.android.com/tools"
